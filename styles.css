@@ -40,11 +40,11 @@ body {
 .gallery {
   position: relative;
   float: left;
-    height: auto;
+    height: 425.375px;
     margin-left: 14.665968%;
     margin-top: 54.875px;
     clear: both;
-    width: auto;
+    width: 72.982774%;
     background-size: auto;
   overflow: hidden;
 }
@@ -124,16 +124,8 @@ body {
     text-shadow: rgb(153, 153, 153) 1px 1px 2px;
 }
 
-#image1 {
-    float: left;
-    width: 763.484375px;
-    max-width: 100%;
-    height: auto;
-    margin-left: 16.066976%;
-    margin-top: 59.125px;
-    clear: both;
-    color: rgb(0, 0, 0);
-}
+
+
 
 #box1 {
     float: left;
@@ -174,13 +166,13 @@ body {
 
 #text2 {
     float: left;
-    font-size: 1.5em;
+    font-size: 2em;
     width: auto;
     height: auto;
     text-align: left;
     font-weight: 300;
     line-height: 1em;
-    margin-left: 11.692547%;
+    margin-left: 5.692547%;
     margin-top: 38px;
     clear: none;
     min-height: 0px;
@@ -193,7 +185,7 @@ body {
 
 #text3 {
     float: left;
-    font-size: 1.5em;
+    font-size: 2em;
     width: auto;
     height: auto;
     text-align: left;
@@ -228,14 +220,14 @@ body {
 
 #text5 {
     float: left;
-    font-size: 1.5em;
+    font-size: 2em;
     width: auto;
     height: auto;
     text-align: center;
     font-weight: 300;
     line-height: 1em;
-    margin-left: -46.884705%;
-    margin-top: 253px;
+    margin-left:5%;
+    margin-top: 38px;
     clear: none;
     min-height: 0px;
     text-transform: uppercase;
@@ -247,14 +239,14 @@ body {
 
 #text4 {
     float: left;
-    font-size: 1em;
+    font-size: 1.5em;
     width: auto;
     height: auto;
     text-align: left;
     font-weight: normal;
     line-height: 1em;
-    margin-left: -15.723991%;
-    margin-top: 84px;
+    margin-left: -11%;
+    margin-top: 105px;
     clear: none;
     min-height: 0px;
     margin-right: 0%;
@@ -268,8 +260,8 @@ body {
     text-align: center;
     font-weight: normal;
     line-height: 1em;
-    margin-left: -46.884705%;
-    margin-top: 298.75px;
+    margin-left: 5%;
+    margin-top: 120px;
     clear: none;
     min-height: 69px;
     margin-right: 0%;
@@ -298,7 +290,7 @@ body {
 #box3 {
     float: left;
     height: 384.625px;
-    margin-left: 16.001553%;
+    margin-left: 13.001553%;
     margin-top: 25.75px;
     clear: none;
     width: 0.13671875%;
