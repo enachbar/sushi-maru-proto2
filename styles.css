@@ -1,0 +1,693 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: Quicksand;
+    background-image:url("img/retina_wood.png");
+    background-attachment: scroll;
+    -webkit-background-size: auto;
+    background-size: auto;
+    font-size: 15px;
+    font-weight: 400;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+
+#box {
+    float: left;
+    height: 135px;
+    margin-left: 0%;
+    margin-top: 188.75px;
+    clear: none;
+    width: 100%;
+    background-image:url("img/dark_wall.png");
+    background-attachment: scroll;
+    -webkit-background-size: auto;
+    background-size: auto;
+    -webkit-box-shadow: rgba(133, 133, 133, 0.882353) 5px 5px 10px 0px;
+    box-shadow: rgba(133, 133, 133, 0.882353) 5px 5px 10px 0px;
+    display: block;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+
+#image {
+    float: left;
+    width: auto;
+    max-width: 21.383714%;
+    height: auto;
+    margin-left: 40.68733%;
+    margin-top: -28.5px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+}
+
+.nav {
+    float: left;
+    font-size: 1.4em;
+    width: 23.431834%;
+    height: auto;
+    text-align: left;
+    font-weight: 400;
+    line-height: 1em;
+    margin-left: 69.900272%;
+    margin-top: 14.5px;
+    clear: both;
+    min-height: 49px;
+    text-transform: lowercase;
+    color: rgb(226, 0, 0);
+    margin-right: 0%;
+    text-shadow: rgb(153, 153, 153) 1px 1px 2px;
+}
+
+#image1 {
+    float: left;
+    width: 763.484375px;
+    max-width: 100%;
+    height: auto;
+    margin-left: 16.066976%;
+    margin-top: 59.125px;
+    clear: both;
+    color: rgb(0, 0, 0);
+}
+
+#box1 {
+    float: left;
+    height: 74px;
+    margin-left: 0%;
+    margin-top: 94.125px;
+    clear: both;
+    width: 100%;
+    -webkit-box-shadow: rgba(133, 133, 133, 0.882353) 5px 5px 10px 0px;
+    box-shadow: rgba(133, 133, 133, 0.882353) 5px 5px 10px 0px;
+    display: block;
+    background-image:url("img/dark_wall.png");
+    background-attachment: scroll;
+    -webkit-background-size: auto;
+    background-size: auto;
+    margin-right: 0%;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+
+#text1 {
+    float: left;
+    font-size: 2.3em;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: 300;
+    line-height: 1em;
+    margin-left: 6.133211%;
+    margin-top: 16px;
+    clear: none;
+    min-height: 0px;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    margin-right: 0%;
+    color: rgb(255, 255, 255);
+}
+
+#text2 {
+    float: left;
+    font-size: 1.5em;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: 300;
+    line-height: 1em;
+    margin-left: 11.692547%;
+    margin-top: 38px;
+    clear: none;
+    min-height: 0px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-right: 0%;
+    color: rgb(249, 114, 46);
+    display: block;
+}
+
+#text3 {
+    float: left;
+    font-size: 1.5em;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: 300;
+    line-height: 1em;
+    margin-left: 5.001941%;
+    margin-top: 38px;
+    clear: none;
+    min-height: 22px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-right: 0%;
+    color: rgb(249, 114, 46);
+    display: block;
+}
+
+#box2 {
+    float: left;
+    height: 425.375px;
+    margin-left: 14.665968%;
+    margin-top: 54.875px;
+    clear: both;
+    width: 72.982774%;
+    background-image:url("img/extra_clean_paper.png");
+    background-attachment: scroll;
+    -webkit-background-size: auto;
+    background-size: auto;
+    opacity: 0.84;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+
+#text5 {
+    float: left;
+    font-size: 1.5em;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: 300;
+    line-height: 1em;
+    margin-left: -46.884705%;
+    margin-top: 253px;
+    clear: none;
+    min-height: 0px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-right: 0%;
+    color: rgb(249, 114, 46);
+    display: block;
+}
+
+#text4 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -15.723991%;
+    margin-top: 84px;
+    clear: none;
+    min-height: 0px;
+    margin-right: 0%;
+}
+
+#text6 {
+    float: left;
+    font-size: 1em;
+    width: 30.339027%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -46.884705%;
+    margin-top: 298.75px;
+    clear: none;
+    min-height: 69px;
+    margin-right: 0%;
+}
+
+#textspan {
+    font-size: 1.2em;
+}
+
+#textspan3 {
+    font-weight: 600;
+}
+
+#textspan5 {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+}
+
+#textspan6 {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+}
+
+#box3 {
+    float: left;
+    height: 384.625px;
+    margin-left: 16.001553%;
+    margin-top: 25.75px;
+    clear: none;
+    width: 0.13671875%;
+    display: block;
+    margin-right: 0%;
+    background-color: rgb(143, 212, 85);
+}
+
+@media only screen and (max-width: 1040px) {
+    #box {
+        float: left;
+        height: 133px;
+        margin-left: 0%;
+        margin-top: 253.703125px;
+        clear: none;
+        width: 100%;
+        background-image:url("img/dark_wall.png");
+        background-attachment: scroll;
+        -webkit-background-size: auto;
+        background-size: auto;
+        -webkit-box-shadow: rgba(133, 133, 133, 0.882353) 5px 5px 10px 0px;
+        box-shadow: rgba(133, 133, 133, 0.882353) 5px 5px 10px 0px;
+        display: block;
+        background-position: 0% 0%;
+        background-repeat: repeat repeat;
+    }
+
+    #image {
+        float: left;
+        width: auto;
+        max-width: 26.719989%;
+        height: auto;
+        margin-left: 36.01536%;
+        margin-top: -30.28125px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: 0%;
+    }
+
+    .nav {
+        float: left;
+        font-size: 1.2em;
+        width: 19.560447%;
+        height: auto;
+        text-align: left;
+        font-weight: 400;
+        line-height: 1em;
+        margin-left: 73.185096%;
+        margin-top: 12px;
+        clear: both;
+        min-height: 23px;
+        text-transform: lowercase;
+        color: rgb(226, 0, 0);
+        margin-right: 0%;
+        text-shadow: rgba(122, 122, 122, 0.65098) 1px 1px 2px;
+    }
+
+    #image1 {
+        float: left;
+        width: auto;
+        max-width: 77.992958%;
+        height: auto;
+        margin-left: 10.453726%;
+        margin-top: 39px;
+        clear: both;
+        color: rgb(0, 0, 0);
+    }
+
+    #box1 {
+        float: left;
+        height: 67px;
+        margin-left: 0%;
+        margin-top: 86px;
+        clear: both;
+        width: 100%;
+        -webkit-box-shadow: rgba(133, 133, 133, 0.882353) 5px 5px 10px 0px;
+        box-shadow: rgba(133, 133, 133, 0.882353) 5px 5px 10px 0px;
+        display: block;
+        background-image:url("img/dark_wall.png");
+        background-attachment: scroll;
+        -webkit-background-size: auto;
+        background-size: auto;
+        margin-right: 0%;
+        background-position: 0% 0%;
+        background-repeat: repeat repeat;
+    }
+
+    #text1 {
+        float: left;
+        font-size: 2.3em;
+        width: auto;
+        height: auto;
+        text-align: center;
+        font-weight: 300;
+        line-height: 1em;
+        margin-left: 3.583233%;
+        margin-top: 14px;
+        clear: none;
+        min-height: 0px;
+        text-transform: capitalize;
+        letter-spacing: 0.5px;
+        margin-right: 0%;
+        color: rgb(249, 246, 247);
+    }
+
+    #text2 {
+        float: left;
+        font-size: 1.5em;
+        width: auto;
+        height: auto;
+        text-align: center;
+        font-weight: 300;
+        line-height: 1em;
+        margin-left: 13.332031%;
+        margin-top: 46.375px;
+        clear: none;
+        min-height: 0px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-right: 0%;
+        color: rgb(249, 114, 46);
+        display: block;
+    }
+
+    #text3 {
+        float: left;
+        font-size: 1.5em;
+        width: auto;
+        height: auto;
+        text-align: center;
+        font-weight: 300;
+        line-height: 1em;
+        margin-left: 4.771484%;
+        margin-top: 46.375px;
+        clear: none;
+        min-height: 0px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-right: 0%;
+        color: rgb(249, 114, 46);
+        display: block;
+    }
+
+    #box2 {
+        float: left;
+        height: 443px;
+        margin-left: 10.453726%;
+        margin-top: 54px;
+        clear: both;
+        width: 76.923077%;
+        background-image:url("img/extra_clean_paper.png");
+        background-attachment: scroll;
+        -webkit-background-size: auto;
+        background-size: auto;
+        opacity: 0.91;
+        background-position: 0% 0%;
+        background-repeat: repeat repeat;
+    }
+
+    #text5 {
+        float: left;
+        font-size: 1.5em;
+        width: auto;
+        height: auto;
+        text-align: center;
+        font-weight: 300;
+        line-height: 1em;
+        margin-left: -32.125%;
+        margin-top: 248px;
+        clear: none;
+        min-height: 0px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-right: 0%;
+        color: rgb(249, 114, 46);
+        display: block;
+    }
+
+    #text4 {
+        float: left;
+        font-size: 1em;
+        width: auto;
+        height: auto;
+        text-align: left;
+        font-weight: normal;
+        line-height: 1em;
+        margin-left: -15.779297%;
+        margin-top: 85px;
+        clear: none;
+        min-height: 0px;
+        margin-right: 0%;
+    }
+
+    #textspan {
+        float: none;
+        font-size: 1.2em;
+        line-height: 1em;
+    }
+
+    #text6 {
+        float: left;
+        font-size: 1em;
+        width: 32.178489%;
+        height: auto;
+        text-align: center;
+        font-weight: normal;
+        line-height: 1em;
+        margin-left: -32.125%;
+        margin-top: 289px;
+        clear: none;
+        min-height: 69px;
+        margin-right: 0%;
+    }
+
+    #textspan3 {
+        float: none;
+        font-size: 1em;
+        line-height: 1em;
+        font-weight: 600;
+        text-transform: none;
+    }
+
+    #box3 {
+        margin-top: 16.375px;
+        margin-right: 0%;
+        margin-left: 13.318359%;
+        clear: none;
+        height: 386.625px;
+        width: 0.14%;
+    }
+}
+
+@media only screen and (max-width: 780px) {
+    #image {
+        margin-top: -24px;
+        margin-left: 37.532051%;
+        clear: none;
+        height: auto;
+        width: auto;
+        max-width: 28.385417%;
+    }
+
+    #box {
+        margin-top: 60px;
+        margin-left: 0%;
+        clear: none;
+    }
+
+    .nav {
+        font-size: 1.2em;
+        height: auto;
+        min-height: 21px;
+        width: 21.616587%;
+        margin-top: 9.5px;
+        margin-left: 71.049679%;
+        clear: both;
+    }
+
+    #box1 {
+        margin-top: 56.3125px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #text2 {
+        font-size: 1.4em;
+    }
+
+    #text5 {
+        margin-top: 263px;
+        margin-left: -42.833333%;
+        clear: none;
+        margin-right: 0%;
+    }
+
+    #image1 {
+        margin-top: 48px;
+        margin-left: 12.451923%;
+        clear: both;
+    }
+
+    #box2 {
+        margin-top: 23px;
+        margin-left: 12.451923%;
+        clear: both;
+        height: 444px;
+    }
+
+    #text1 {
+        margin-top: 16px;
+        margin-left: 5.578926%;
+        clear: none;
+        font-size: 2.2em;
+    }
+
+    #text3 {
+        margin-top: 46.375px;
+        margin-left: 6.270833%;
+        clear: none;
+        font-size: 1.4em;
+    }
+
+    #text4 {
+        margin-top: 99px;
+        margin-left: -19.166667%;
+        clear: none;
+    }
+
+    #text6 {
+        margin-top: 307px;
+        margin-left: -42.833333%;
+        clear: none;
+        margin-right: 0%;
+        height: auto;
+        width: 42.833333%;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    #image {
+        margin-top: -17.65625px;
+        margin-left: 22.822266%;
+        clear: none;
+        height: auto;
+        width: auto;
+        max-width: 56.049805%;
+    }
+
+    #box {
+        height: 110.65625px;
+        margin-top: 41px;
+        margin-left: 0%;
+        clear: none;
+    }
+
+    .nav {
+        height: auto;
+        margin-top: 13px;
+        margin-left: 29.086914%;
+        clear: both;
+        width: 45.117188%;
+        min-height: 20px;
+        font-size: 1em;
+    }
+
+
+ .nav #home {
+        visibility: none;
+
+    }
+
+    #image1 {
+        margin-top: 27px;
+        margin-left: 11.75293%;
+        clear: both;
+    }
+
+    #box1 {
+        height: 40.65625px;
+        margin-top: 41px;
+        margin-left: 0%;
+        clear: none;
+    }
+
+    #box2 {
+        margin-top: 16px;
+        margin-left: 12.866211%;
+        clear: both;
+        height: 504px;
+    }
+
+    #text1 {
+        font-size: 1.4em;
+        margin-top: 11px;
+        margin-left: 6.132813%;
+        clear: none;
+        font-weight: 200;
+    }
+
+    #text2 {
+        font-size: 1.2em;
+        margin-top: 38px;
+        margin-left: 28.566887%;
+        clear: none;
+    }
+
+    #text3 {
+        font-size: 1.2em;
+        margin-top: 146px;
+        margin-left: 28.566887%;
+        clear: both;
+    }
+
+    #text4 {
+        margin-top: 10px;
+        margin-left: 8.475331%;
+        clear: both;
+    }
+
+    #text5 {
+        margin-top: 14px;
+        margin-left: 34.702442%;
+        clear: both;
+        font-size: 1.2em;
+    }
+
+    #text6 {
+        margin-top: 6.75px;
+        margin-left: 16.009664%;
+        clear: both;
+        height: auto;
+        width: 66.620041%;
+    }
+
+    #textspan1 {
+        float: none;
+        font-size: 0.7em;
+        line-height: 0em;
+    }
+
+    #textspan2 {
+        float: none;
+        font-size: 0.8em;
+        line-height: 0em;
+    }
+
+    #textspan3 {
+        font-size: 0.9em;
+        line-height: 0em;
+    }
+
+    #textspan4 {
+        float: none;
+        font-size: 0.9em;
+        line-height: 0em;
+    }
+
+    #textspan5 {
+        float: none;
+        font-size: 0.9em;
+        line-height: 0em;
+    }
+
+    #textspan6 {
+        float: none;
+        font-size: 0.9em;
+        line-height: 0em;
+    }
+}
+
