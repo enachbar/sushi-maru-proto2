@@ -36,6 +36,64 @@ body {
     background-repeat: repeat repeat;
 }
 
+
+.gallery {
+  position: relative;
+  float: left;
+    height: 425.375px;
+    margin-left: 14.665968%;
+    margin-top: 54.875px;
+    clear: both;
+    width: 72.982774%;
+    background-size: auto;
+  overflow: hidden;
+}
+.gallery:nth-of-type(2) {
+  height: 700px;
+}
+.gallery img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity .5s ease;
+}
+.gallery img.active, .gallery img:first-of-type {
+  opacity: 1;
+}
+.gallery .gallery-buttons {
+  position: absolute;
+  height: 20px;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+.gallery .gallery-buttons .gallery-btn {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  cursor: pointer;
+  border-radius: 50%;
+  border: rgb(249, 114, 46);
+  transition: all .3s ease;
+}
+.gallery .gallery-buttons .gallery-btn + .gallery-btn {
+  margin-left: 10px;
+}
+.gallery .gallery-buttons .gallery-btn:hover, .gallery .gallery-buttons .gallery-btn.active {
+  background-color: rgb(249, 114, 46);
+}
+.gallery .gallery-buttons .gallery-btn.active {
+  cursor: default;
+}
+.gallery + .gallery {
+  margin-top: 20px;
+}
+
+
+
 #image {
     float: left;
     width: auto;
@@ -101,7 +159,7 @@ body {
     font-size: 2.3em;
     width: auto;
     height: auto;
-    text-align: center;
+    text-align: left;
     font-weight: 300;
     line-height: 1em;
     margin-left: 6.133211%;
@@ -119,7 +177,7 @@ body {
     font-size: 1.5em;
     width: auto;
     height: auto;
-    text-align: center;
+    text-align: left;
     font-weight: 300;
     line-height: 1em;
     margin-left: 11.692547%;
@@ -138,7 +196,7 @@ body {
     font-size: 1.5em;
     width: auto;
     height: auto;
-    text-align: center;
+    text-align: left;
     font-weight: 300;
     line-height: 1em;
     margin-left: 5.001941%;
@@ -333,7 +391,7 @@ body {
         font-size: 2.3em;
         width: auto;
         height: auto;
-        text-align: center;
+        text-align: left;
         font-weight: 300;
         line-height: 1em;
         margin-left: 3.583233%;
@@ -351,7 +409,7 @@ body {
         font-size: 1.5em;
         width: auto;
         height: auto;
-        text-align: center;
+        text-align: left;
         font-weight: 300;
         line-height: 1em;
         margin-left: 13.332031%;
@@ -370,7 +428,7 @@ body {
         font-size: 1.5em;
         width: auto;
         height: auto;
-        text-align: center;
+        text-align: left;
         font-weight: 300;
         line-height: 1em;
         margin-left: 4.771484%;
@@ -405,7 +463,7 @@ body {
         font-size: 1.5em;
         width: auto;
         height: auto;
-        text-align: center;
+        text-align: left;
         font-weight: 300;
         line-height: 1em;
         margin-left: -32.125%;
@@ -445,7 +503,7 @@ body {
         font-size: 1em;
         width: 32.178489%;
         height: auto;
-        text-align: center;
+        text-align: left;
         font-weight: normal;
         line-height: 1em;
         margin-left: -32.125%;
@@ -587,10 +645,6 @@ body {
     }
 
 
- a #home {
-        visibility: none;
-
-    }
 
     #image1 {
         margin-top: 27px;
