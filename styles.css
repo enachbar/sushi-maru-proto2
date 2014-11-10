@@ -587,7 +587,7 @@ body {
     }
 
 
- .nav #home {
+ a #home {
         visibility: none;
 
     }
