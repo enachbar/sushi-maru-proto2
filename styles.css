@@ -40,11 +40,11 @@ body {
 .gallery {
   position: relative;
   float: left;
-    height: 425.375px;
+    height: auto;
     margin-left: 14.665968%;
     margin-top: 54.875px;
     clear: both;
-    width: 72.982774%;
+    width: auto;
     background-size: auto;
   overflow: hidden;
 }
