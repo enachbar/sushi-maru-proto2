@@ -37,6 +37,8 @@ body {
 }
 
 
+
+
 .gallery {
   position: relative;
   float: left;
@@ -124,10 +126,44 @@ body {
     text-shadow: rgb(153, 153, 153) 1px 1px 2px;
 }
 
+.map {
+    float: left;
+    font-size: 2em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    margin-left: -11.692547%;
+    margin-top: 68px;
+    clear: none;
+    min-height: 0px;
+    margin-right: 0%;
+    display: block;
 
+}
 
 
 #box1 {
+    float: left;
+    height: 74px;
+    margin-left: 0%;
+    margin-top: 94.125px;
+    clear: both;
+    width: 100%;
+    -webkit-box-shadow: rgba(133, 133, 133, 0.882353) 5px 5px 10px 0px;
+    box-shadow: rgba(133, 133, 133, 0.882353) 5px 5px 10px 0px;
+    display: block;
+    background-image:url("img/dark_wall.png");
+    background-attachment: scroll;
+    -webkit-background-size: auto;
+    background-size: auto;
+    margin-right: 0%;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+
+
+
+#box5{
     float: left;
     height: 74px;
     margin-left: 0%;
@@ -204,7 +240,7 @@ body {
 
 #box2 {
     float: left;
-    height: 425.375px;
+    height: 600px;
     margin-left: 14.665968%;
     margin-top: 54.875px;
     clear: both;
